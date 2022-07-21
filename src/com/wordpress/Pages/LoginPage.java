@@ -11,7 +11,9 @@ package com.wordpress.Pages;
 public class LoginPage 
 {
 
-	By us=By.id("usernameOrEmail");	
+	public static void main(String[] args) {
+		System.out.println("This is my first GITHUB");
+	}
 	
 	
 	
